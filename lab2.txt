@@ -2,3 +2,5 @@ git config --unset --global http.proxy
 git config --unset --global https.proxy
 remotely updated
 second remote update
+
+second branch update
